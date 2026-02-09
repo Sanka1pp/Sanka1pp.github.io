@@ -1,10 +1,3 @@
----
-layout: page
-title: Research
-icon: fas fa-flask
-order: 1
----
-
 # Syntropy Security Research Labs
 **Status:** Operational | **Clearance:** Public
 
