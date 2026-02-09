@@ -33,7 +33,7 @@ We publish our defense tools and academic proofs to the community.
 
 * **🛡️ The Defense:** [**Syntropy Field Manual**](https://github.com/Sanka1pp/Syntropy-Field-Manual)<br>
     *Proprietary Snort rules and remediation patches for the vulnerabilities listed above.*
-* **🔬 The Science:** [**Open Science Framework (OSF)**](https://osf.io/search/?q=Sankalp%20Devidas%20Hanwate)<br>
+* **🔬 The Science:** [**Open Science Framework (OSF)**](https://osf.io/user/wcvsx)<br>
     *Academic pre-prints of architectural security failures.*
 * **💀 The Offense:** [**Packet Storm Profile**](https://packetstorm.news/files/author/31694/)<br>
     *Public disclosure of verified exploits.*
